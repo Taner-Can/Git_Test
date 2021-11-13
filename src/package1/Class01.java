@@ -9,8 +9,7 @@ public class Class01 {
         System.out.println("Champion Besiktas");
 
         String str = "Java";
-        
-        int i = 9;
+
         System.out.println("Remote Repo Code");
      }
 }
