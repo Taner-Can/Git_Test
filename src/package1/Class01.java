@@ -10,6 +10,7 @@ public class Class01 {
 
         String str = "Java";
         
+        int i = 9;
         System.out.println("Remote Repo Code");
      }
 }
