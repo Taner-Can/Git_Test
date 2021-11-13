@@ -8,6 +8,7 @@ public class Class01 {
         System.out.println("Batch35_36");
         System.out.println("Champion Besiktas");
         
+        int i = 9;
         System.out.println("Remote Repo Code");
      }
 }
